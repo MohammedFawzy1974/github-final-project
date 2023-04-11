@@ -6,7 +6,7 @@
 
    # Author: Mohammed Khalil Ibrahim
    # Additional Authors:
-   # <MOhammedFawzy1974>
+   # <MohammedFawzy1974>
 
    # Input:
    # p, principal amount
